@@ -1,0 +1,9 @@
+node_modules/
+allure-results/
+allure-report/
+cypress/videos/
+cypress/screenshots
+cypress/report
+package-lock.json
+.eslintrc
+.eslintignore
